@@ -1,5 +1,5 @@
 # Microsoft Office Macros Collection
-Collection of Microsoft Office macros I use to automate my job.
+Collection of Microsoft Office macros and function-combos I personally use to streamline Excel work.
 
 # Disclaimers
 Created on Microsoft Office 2016. Compatability is not guaranteed with older versions.
